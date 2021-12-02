@@ -11,8 +11,10 @@ Sentiment analysis in reviews, comments, tweets, captions is one of the trending
   3. If you want to do more after part 2 you can make a small report of your understanding based on your plots observations, write some discussions about them and that will be the end of the project. You can have a look on this video: ![Sentiment Analysis: extracting emotion through machine learning | Andy Kim | TEDxDeerfield](https://www.youtube.com/watch?v=n4L5hHFcGVk)
 
 #### HOW TO CONTRIBUTE:
-
-
+  1. First go to ![issues](https://github.com/I-am-sayantan/public-sentiment-analysis-based-on-twitter-hashtags/issues), where you can find the issues. Comment on the task 1 issue if your are interested.
+  2. You can fork and start working on the project, when you are done make a PR on the ![contribution branch](https://github.com/I-am-sayantan/public-sentiment-analysis-based-on-twitter-hashtags/tree/CONTRIBUTION),please dont make the PR in the main branch.
+  3. For task 1 and task 2 only one jupyter notebook is needed and make you PR inside ![Jupyter notebooks](https://github.com/I-am-sayantan/public-sentiment-analysis-based-on-twitter-hashtags/tree/CONTRIBUTION/CONTRIBUTION/Jupyter%20notebooks), the name of the file should be name_of_the_contributor.ipynb, and should be in this format: ![Jupyter notebooks format](https://github.com/I-am-sayantan/public-sentiment-analysis-based-on-twitter-hashtags/blob/main/CONTRIBUTION/Jupyter%20notebooks/Sayantan_kirtaniya.ipynb)
+  4. For task 3 please make your PR isnide ![Jupyter notebooks](https://github.com/I-am-sayantan/public-sentiment-analysis-based-on-twitter-hashtags/tree/main/CONTRIBUTION/Analysis%20reports), the name of the file should be name_of_the_contributor.pdf, and should be in this format: ![Analysis report format](https://github.com/I-am-sayantan/public-sentiment-analysis-based-on-twitter-hashtags/blob/main/CONTRIBUTION/Analysis%20reports/Sayantan_kirtaniya.pdf)
 
 #### ABOUT THE DATASET:
 
