@@ -1,0 +1,6 @@
+numpy
+pandas
+re
+os
+datetime
+IPython
