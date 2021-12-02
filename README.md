@@ -1,4 +1,4 @@
-# :snowflake: Public-sentiment-analysis-based-on-twitter-hashtags :snowflake:
+## :snowflake:Public-sentiment-analysis-based-on-twitter-hashtags:snowflake:
 
 ![1 U9tZ3rPFL5sykKxeMd1nZw](https://user-images.githubusercontent.com/50532530/144480433-81177f86-0e49-4fb0-8730-c427c8330e1e.png)
 
