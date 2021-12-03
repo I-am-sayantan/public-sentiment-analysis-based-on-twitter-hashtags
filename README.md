@@ -1,6 +1,10 @@
 ## :snowflake:Public-sentiment-analysis-based-on-twitter-hashtags:snowflake:
 
-![1 U9tZ3rPFL5sykKxeMd1nZw](https://user-images.githubusercontent.com/50532530/144480433-81177f86-0e49-4fb0-8730-c427c8330e1e.png)
+<p align="center">
+  <kbd>
+  <img width="1000" height="500" src="https://user-images.githubusercontent.com/50532530/144480433-81177f86-0e49-4fb0-8730-c427c8330e1e.png">
+   </kbd> 
+</p>
 
 #### ABSTRACT :page_facing_up: :
 Sentiment analysis in reviews, comments, tweets, captions is one of the trending projects right now in the DL and ML domains, we use the NLU engine to analyze the sentiments of the texts, as well as try to classify the labelled texts using BERT, Roberta models. This project focuses on the unlabeled where you can try to analyze the tweets of the hashtags using different libraries and based on your analysis you can make plots and make an observation from it, can understand the behaviour of the public sentiment at different times i.e may what is the curve of positivity in human sentiments during weekdays and weekends, how is the trend of the negativity curve during the month ends. For completing the goals datasets have been provided, as well as a demo is also added that how the datasets had been made.
@@ -15,7 +19,7 @@ Sentiment analysis in reviews, comments, tweets, captions is one of the trending
   2. You can fork and start working on the project, when you are done make a PR on the ![contribution branch](https://github.com/I-am-sayantan/public-sentiment-analysis-based-on-twitter-hashtags/tree/CONTRIBUTION),please dont make the PR in the main branch.
   3. For task 1 and task 2 only one jupyter notebook is needed and make you PR inside ![Jupyter notebooks](https://github.com/I-am-sayantan/public-sentiment-analysis-based-on-twitter-hashtags/tree/CONTRIBUTION/CONTRIBUTION/Jupyter%20notebooks), the name of the file should be name_of_the_contributor.ipynb, and should be in this format: ![Jupyter notebooks format](https://github.com/I-am-sayantan/public-sentiment-analysis-based-on-twitter-hashtags/blob/main/CONTRIBUTION/Jupyter%20notebooks/Sayantan_kirtaniya.ipynb)
   4. For task 3 please make your PR inside ![Jupyter notebooks](https://github.com/I-am-sayantan/public-sentiment-analysis-based-on-twitter-hashtags/tree/main/CONTRIBUTION/Analysis%20reports), the name of the file should be name_of_the_contributor.pdf, and should be in this format: ![Analysis report format](https://github.com/I-am-sayantan/public-sentiment-analysis-based-on-twitter-hashtags/blob/main/CONTRIBUTION/Analysis%20reports/Sayantan_kirtaniya.pdf)
-  5. Please don't forget to add a comment on the issues before making the PRs.
+  5. Please don't forget to add a comment on the issues before making the PRs, for questions please
 
 #### ABOUT THE DATASET :chart_with_upwards_trend::
 - To use the dataset go inside the ![datasets folder](https://github.com/I-am-sayantan/public-sentiment-analysis-based-on-twitter-hashtags/blob/main/datasets/datasets.zip) and get the understanding from the ![data.md](https://github.com/I-am-sayantan/public-sentiment-analysis-based-on-twitter-hashtags/blob/main/datasets/data.md)
