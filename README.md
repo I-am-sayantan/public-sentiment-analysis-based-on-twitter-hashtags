@@ -5,6 +5,9 @@
   <img width="400" height="250" src="https://user-images.githubusercontent.com/50532530/144480433-81177f86-0e49-4fb0-8730-c427c8330e1e.png">
    </kbd> 
 </p>
+<p align="center">
+  Discord server for communication purposes: https://discord.gg/fKdd2tHeSR
+</p>
 
 #### ABSTRACT :page_facing_up: :
 Sentiment analysis in reviews, comments, tweets, captions is one of the trending projects right now in the DL and ML domains, we use the NLU engine to analyze the sentiments of the texts, as well as try to classify the labelled texts using BERT, Roberta models. This project focuses on the unlabeled where you can try to analyze the tweets of the hashtags using different libraries and based on your analysis you can make plots and make an observation from it, can understand the behaviour of the public sentiment at different times i.e may what is the curve of positivity in human sentiments during weekdays and weekends, how is the trend of the negativity curve during the month ends. For completing the goals datasets have been provided, as well as a demo is also added that how the datasets had been made.
