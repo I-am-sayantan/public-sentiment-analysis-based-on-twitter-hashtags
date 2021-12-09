@@ -25,7 +25,7 @@ Sentiment analysis in reviews, comments, tweets, captions is one of the trending
   5. Please don't forget to add a comment on the issues before making the PRs, for questions please
 
 #### ABOUT THE DATASET :chart_with_upwards_trend::
-- To use the dataset go inside the ![datasets folder](https://github.com/I-am-sayantan/public-sentiment-analysis-based-on-twitter-hashtags/blob/main/datasets/datasets.zip) and get the understanding from the ![data.md](https://github.com/I-am-sayantan/public-sentiment-analysis-based-on-twitter-hashtags/blob/main/datasets/data.md)
+- To use the dataset go inside the ![datasets folder](https://github.com/I-am-sayantan/public-sentiment-analysis-based-on-twitter-hashtags/blob/main/datasets/datasets.rar) and get the understanding from the ![data.md](https://github.com/I-am-sayantan/public-sentiment-analysis-based-on-twitter-hashtags/blob/main/datasets/data.md)
 - If you wonder how the datasets had been made, have a look inside this ![folder](https://github.com/I-am-sayantan/public-sentiment-analysis-based-on-twitter-hashtags/tree/main/BUILDING%20THE%20DATASET) and have a look at the example.ipynb, if you wants to test that notebook please run this command first:
               
       pip install -r requirements.txt
