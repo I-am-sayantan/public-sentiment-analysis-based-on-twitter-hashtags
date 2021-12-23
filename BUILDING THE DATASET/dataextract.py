@@ -5,7 +5,7 @@ import os
 from datetime import date
 from datetime import datetime,timedelta
 
-def dataextract(corpus,date,number = 250,day =1):
+def dataextract(corpus,date,number = 700,day =1):
     print('max rows will be:',number)
     x=corpus
     y=date
