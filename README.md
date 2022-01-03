@@ -1,4 +1,4 @@
-## <p align = "center">:snowflake:Public-sentiment-analysis-based-on-twitter-hashtags:snowflake: </p>
+## :snowflake:Public-sentiment-analysis-based-on-twitter-hashtags:snowflake:
 
 <p align="center">
   <kbd>
@@ -37,18 +37,3 @@ Sentiment analysis in reviews, comments, tweets, captions is one of the trending
 Powerful Techniques ; [Link 2](https://arxiv.org/pdf/1602.07563v2.pdf) : Multilingual Twitter Sentiment Classification ; [Link 3](https://www.sciencedirect.com/science/article/pii/S187705091931885X) : Sentiment Analysis in Social Media and Its Application; [Link 4](https://thesai.org/Downloads/Volume10No2/Paper_48-A_Study_on_Sentiment_Analysis_Techniques.pdf) : A Study on Sentiment Analysis Techniques of Twitter.
 
 - **Links to the notebooks:** [Notebook1](https://www.kaggle.com/ngyptr/python-nltk-sentiment-analysis) ; [Notebook2](https://colab.research.google.com/github/littlecolumns/ds4j-notebooks/blob/master/investigating-sentiment-analysis/notebooks/Designing%20your%20own%20sentiment%20analysis%20tool.ipynb#scrollTo=AgBSO9x-72IA) ; [Notebook3](https://towardsdatascience.com/sentiment-analysis-in-10-minutes-with-bert-and-hugging-face-294e8a04b671) ; [Notebook4](https://colab.research.google.com/github/agungsantoso/deep-learning-v2-pytorch/blob/master/sentiment-rnn/Sentiment_RNN_Exercise.ipynb#scrollTo=irgW-x9Zpmw1).
-
-#### OUR VALUABLE CONTRIBUTORS :
-
-### <p align="center"> Made with ❤️ by </p>
-
-<table>
-	<tr>
-		 <td>
-</br>
-
-<a href="https://github.com/I-am-sayantan/public-sentiment-analysis-based-on-twitter-hashtags/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=I-am-sayantan/public-sentiment-analysis-based-on-twitter-hashtags" />
-</a>
-  
- </table>
